@@ -1038,3 +1038,16 @@ function printAppointmentSlip() {
     window.print();
   }
 }
+
+// Ensure functions are accessible in module context
+window.openModal = openModal;
+window.closeModal = closeModal;
+window.showToast = showToast;
+window.selectDoctorForAppointment = selectDoctorForAppointment;
+window.selectPackageForBooking = selectPackageForBooking;
+window.openDeptModal = openDeptModal;
+window.openArticleModal = openArticleModal;
+window.openDirectionsModal = openDirectionsModal;
+window.openLegalModal = openLegalModal;
+window.printAppointmentSlip = printAppointmentSlip;
+
