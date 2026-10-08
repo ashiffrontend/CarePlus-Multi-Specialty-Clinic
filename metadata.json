@@ -1,0 +1,6 @@
+{
+  "name": "CarePlus Multi-Specialty Clinic",
+  "description": "Premium multi-specialty healthcare website featuring interactive doctor directory, smart appointment booking, health packages, and 24/7 emergency care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
